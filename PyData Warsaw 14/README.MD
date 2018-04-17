@@ -9,3 +9,5 @@ Cross-validation is one of the most fundamental techniques of machine learning. 
 ## Kamil Krzyk (Azimo) - Advantages of using Batch Normalization in Deep Learning - with examples  
 Are you already familiar with Deep Learning but would like to expand your knowledge? Do you want to learn about Batch Normalization, an amazing technique that saves time and improves the quality of your models? If you answered yes to either of these questions, this presentation is for you!
 In this presentation, I plan to provide you with soft mathematical intuition behind Batch Normalization method, explain how to use it to its full potential, and compare a couple of example models. The example models have the same structure and perform on the same dataset, but one of them takes advantage of Batch Normalization. Through this comparison, you will see how it affects training time, helps with the Vanishing Gradient problem, makes your model invulnerable to bad weight initialization, and more.
+
+[Presentation on YT](https://www.youtube.com/watch?v=9mI-viU9U0E)
