@@ -1,13 +1,5 @@
 # Slides from PyData Warsaw 20 - 05.06.2019
 
-## Anthony Harrington - "Explainable AI"
-
-## Jakub Czakon - "Hyperparameter optimization in python"
-Overview of the most important libraries for hyperparameter optimization - how to use them, what are the most important features, what are drawbacks, backed by performance review and recommendations.
-
-[Link to slideshare](https://www.linkedin.com/feed/update/urn:li:activity:6531812742406369280/)
-
-
 ## Pawel Borkowski - "Speech recognition technologies"
 
 In this talk Pawel will give a general intro to the speech technologies we have, with info about applications and some creative ways of using them. He will also dive in into one of those technologies - Audio Fingerprinting
